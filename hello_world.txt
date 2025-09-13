@@ -1,1 +1,2 @@
 Hello World.
+This is to test kate as git commit message editor
