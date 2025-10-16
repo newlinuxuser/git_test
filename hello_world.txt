@@ -1,3 +1,2 @@
-Hello World!
-It is me learning web dev with the help of TOP.
-Thank you all for the priceless efforts of yours.
+Hello World.
+This is to test kate as git commit message editor
